@@ -6,7 +6,7 @@ function App() {
    
   return (
    <>
-   <h1 style={{textAlign: "center"}}>Hi, I'm Aakansha Jha.</h1>
+   <h1 style={{textAlign: "center"}}>Explore My Project</h1>
    <WeatherApp/>
    {/* <SearchBox/>
    <InfoBox/> */}
